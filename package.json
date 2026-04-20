@@ -4,7 +4,11 @@
   "description": "Syux programming language - a statically-typed language that transpiles to C++",
   "version": "0.7.1",
   "author": "Sid",
-  "publisher": "Sid",
+  "publisher": "DevSid",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sid/syuxlang"
+  },
   "engines": {
     "vscode": "^1.0.0"
   },
